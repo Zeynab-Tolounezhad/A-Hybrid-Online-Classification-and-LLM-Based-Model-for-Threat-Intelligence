@@ -1,1 +1,1 @@
-# A-Hybrid-Online-Classification-and-LLM-Based-Model-for-Threat-Intelligence
+# A Hybrid Online Classification and LLM Based Model for Threat Intelligence
